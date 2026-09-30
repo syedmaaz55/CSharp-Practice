@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\bin\Debug\loginsystem.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\bin\Debug\loginsystem.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\bin\Debug\loginsystem.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\obj\Debug\loginsystem.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\obj\Debug\loginsystem.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\loginsystem\loginsystem\obj\Debug\loginsystem.exe.config

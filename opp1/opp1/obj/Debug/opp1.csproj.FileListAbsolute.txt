@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\bin\Debug\opp1.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\bin\Debug\opp1.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\bin\Debug\opp1.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\obj\Debug\opp1.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\obj\Debug\opp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\obj\Debug\opp1.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\obj\Debug\opp1.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\opp1\opp1\obj\Debug\opp1.exe.config

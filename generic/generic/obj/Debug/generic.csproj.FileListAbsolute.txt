@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\bin\Debug\generic.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\bin\Debug\generic.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\bin\Debug\generic.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\obj\Debug\generic.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\obj\Debug\generic.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\generic\generic\obj\Debug\generic.exe.config

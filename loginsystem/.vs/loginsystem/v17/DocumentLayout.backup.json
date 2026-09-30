@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\loginsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A1F24A-ED03-416F-9AD5-07BF4ED46B9B}|loginsystem\\loginsystem.csproj|c:\\users\\dell\\onedrive\\pictures\\maazi\\c#\\loginsystem\\loginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A1F24A-ED03-416F-9AD5-07BF4ED46B9B}|loginsystem\\loginsystem.csproj|solutionrelative:loginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\loginsystem\\loginsystem\\Program.cs",
+              "RelativeDocumentMoniker": "loginsystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\loginsystem\\loginsystem\\Program.cs*",
+              "RelativeToolTip": "loginsystem\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T22:34:01.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

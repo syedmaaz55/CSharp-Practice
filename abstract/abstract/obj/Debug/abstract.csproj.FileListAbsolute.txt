@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\bin\Debug\@abstract.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\bin\Debug\@abstract.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\obj\Debug\@abstract.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstract\abstract\obj\Debug\@abstract.pdb

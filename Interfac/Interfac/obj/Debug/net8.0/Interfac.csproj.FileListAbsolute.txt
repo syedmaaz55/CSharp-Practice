@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\bin\Debug\net8.0\Interfac.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\bin\Debug\net8.0\Interfac.deps.json
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\bin\Debug\net8.0\Interfac.runtimeconfig.json
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\bin\Debug\net8.0\Interfac.dll
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\bin\Debug\net8.0\Interfac.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.dll
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\refint\Interfac.dll
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\Interfac.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\Interfac\Interfac\obj\Debug\net8.0\ref\Interfac.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\encap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33399ACB-F163-4923-85AC-360E7562794C}|encap\\encap.csproj|c:\\users\\dell\\onedrive\\pictures\\maazi\\c#\\encap\\encap\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399ACB-F163-4923-85AC-360E7562794C}|encap\\encap.csproj|solutionrelative:encap\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399ACB-F163-4923-85AC-360E7562794C}|encap\\encap.csproj|c:\\users\\dell\\onedrive\\pictures\\maazi\\c#\\encap\\encap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399ACB-F163-4923-85AC-360E7562794C}|encap\\encap.csproj|solutionrelative:encap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\encap\\encap\\user.cs",
+              "RelativeDocumentMoniker": "encap\\user.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\encap\\encap\\user.cs",
+              "RelativeToolTip": "encap\\user.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:31:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\encap\\encap\\Program.cs",
+              "RelativeDocumentMoniker": "encap\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Pictures\\MAAZI\\C#\\encap\\encap\\Program.cs",
+              "RelativeToolTip": "encap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:30:29.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

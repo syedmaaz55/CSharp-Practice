@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encapsulation\encapsulation\obj\Debug\encapsulation.exe.config

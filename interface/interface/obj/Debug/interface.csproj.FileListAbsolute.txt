@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\bin\Debug\@interface.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\bin\Debug\@interface.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\bin\Debug\@interface.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\obj\Debug\@interface.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\interface\interface\obj\Debug\@interface.pdb

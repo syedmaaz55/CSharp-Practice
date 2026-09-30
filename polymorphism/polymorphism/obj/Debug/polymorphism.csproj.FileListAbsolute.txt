@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\polymorphism\polymorphism\obj\Debug\polymorphism.exe.config

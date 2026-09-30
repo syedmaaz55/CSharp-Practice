@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\bin\Debug\encap.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\bin\Debug\encap.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\bin\Debug\encap.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\obj\Debug\encap.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\obj\Debug\encap.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\obj\Debug\encap.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\obj\Debug\encap.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\encap\encap\obj\Debug\encap.exe.config

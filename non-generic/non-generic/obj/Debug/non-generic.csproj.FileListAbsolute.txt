@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\bin\Debug\non-generic.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\bin\Debug\non-generic.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\bin\Debug\non-generic.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\obj\Debug\non-generic.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\obj\Debug\non-generic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\obj\Debug\non-generic.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\obj\Debug\non-generic.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\non-generic\non-generic\obj\Debug\non-generic.exe.config

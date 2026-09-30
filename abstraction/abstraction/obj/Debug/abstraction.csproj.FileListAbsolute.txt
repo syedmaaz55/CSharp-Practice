@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\bin\Debug\abstraction.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\bin\Debug\abstraction.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\bin\Debug\abstraction.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\obj\Debug\abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\obj\Debug\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\obj\Debug\abstraction.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\obj\Debug\abstraction.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\abstraction\abstraction\obj\Debug\abstraction.exe.config

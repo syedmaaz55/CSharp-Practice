@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Dell\OneDrive\Pictures\MAAZI\C#\inheritance\inheritance\obj\Debug\inheritance.exe.config
